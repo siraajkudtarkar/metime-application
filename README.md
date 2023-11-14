@@ -1,4 +1,4 @@
-# CS178-MeTime-iOS-Application
+# MeTime-Web-Application
 
 ## Project Description
 The main purpose of the MeTime application is to allow people to explore new interests, hobbies, or exciting activities nearby in any available time slots that they have during the day. Many people want to explore new interests and find new things to do however often cannot find the time to do so with their busy schedules. The MeTime application will allow users to input their digital calendar into the application along with which city they are currently in, then the application will find free time within the calendar and suggest available activities or events that they can participate in their city. 
@@ -8,9 +8,9 @@ Karanvir Chima, Siraaj Kudtarkar, Vraj Patel, Ethan Wan
 
 ## Tools
 * Python, Pymongo, and MongoDB (for backend development and database system)
-* Next.JS (React), HTML, CSS in VS Code (for front end design and IDE)
-* MVI (design pattern) 
-* Google Calendar and Google Maps API (for adding time block into calendar and finding nearby activities)
+* Next.JS (Typescript), HTML, and CSS in VS Code (for front end design and IDE)
+* MVI (Design pattern) 
+* Google Calendar and Google Places API (for adding time block into calendar and finding nearby activities)
 * Figma (UX/UI Design)
 
 ## Daily Meeting Schedule
@@ -23,4 +23,4 @@ M-F: 9:00 PM
 * Create a fully detailed UX/UI design for the entire MeTime application using Figma. 
 
 ## Final Vision
-Create basic prototype with functionality to import calendar, onboard the user, and find MeTime in the user’s schedule to suggest activities in the area
+Create basic prototype with functionality to import calendar, onboard the user, and find MeTime in the user’s schedule to suggest activities in the area.
