@@ -7,9 +7,8 @@ The main purpose of the MeTime application is to allow people to explore new int
 [Karanvir Chima](https://github.com/karanvirchima), [Siraaj Kudtarkar](https://github.com/siraajkudtarkar), [Vraj Patel](https://github.com/vpate3356), and [Ethan Wan](https://github.com/ELW123)
 
 ## Tools
-* Python, Pymongo, and MongoDB (for backend development and database system)
+* Python, Pymongo, and MongoDB (for backend development and database management system)
 * Next.JS (Typescript), HTML, and CSS in VS Code (for front end design and IDE)
-* MVI (Design pattern) 
 * Google Calendar and Google Places API (for adding time block into calendar and finding nearby activities)
 * Figma (UX/UI Design)
 
