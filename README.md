@@ -4,7 +4,7 @@
 The main purpose of the MeTime application is to allow people to explore new interests, hobbies, or exciting activities nearby in any available time slots that they have during the day. Many people want to explore new interests and find new things to do however often cannot find the time to do so with their busy schedules. The MeTime application will allow users to input their digital calendar into the application along with which city they are currently in, then the application will find free time within the calendar and suggest available activities or events that they can participate in their city. 
 
 ## Team Members
-Karanvir Chima, Siraaj Kudtarkar, Vraj Patel, Ethan Wan
+[Karanvir Chima](https://github.com/karanvirchima), [Siraaj Kudtarkar](https://github.com/siraajkudtarkar), [Vraj Patel](https://github.com/vpate3356), and [Ethan Wan](https://github.com/ELW123)
 
 ## Tools
 * Python, Pymongo, and MongoDB (for backend development and database system)
